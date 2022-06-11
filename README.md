@@ -1,1 +1,1 @@
-# rsschool-cv
+https://istren-git.github.io/rsschool-cv/
