@@ -1,31 +1,31 @@
-# Anthony Edward "Tony" Stark
+## Anthony Edward "Tony" Stark
 *Genius. Billionaire. Philanthropist*
 ***
-## Adress:
+### Adress:
 Stark Tower, 200 Park Avenue, N.Y.
 ***
-## Date of birth:
+### Date of birth:
 29.05.1970
 ******
-## Skills:
+### Skills:
 * Electronics
 * Programming
 * Machine Learning
 * Physics
 * Leadership
 *******
-## Work experience:
+### Work experience:
 Ex-CEO, Stark Industries
 Occasionally saving the world as "Iron Man"
 *****
-## Education:
+### Education:
 Master's degree 
 MIT, Electrical engineering
 ******
-## Languages:
+### Languages:
 English, French, Spanish, Italian
 ****
-## Contact:
+### Contact:
 tony.stark@example.com
 
 +12345678900
